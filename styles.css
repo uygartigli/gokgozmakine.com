@@ -1,8 +1,8 @@
 body {
-    background-image: url('https://github.com/uygartigli/gokgozmakine.com/blob/main/background_pic.jpg');
-    background-size: cover; /* Ensures the image covers the entire screen */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-image: url('https://raw.githubusercontent.com/uygartigli/gokgozmakine.com/main/background_pic.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 header {
